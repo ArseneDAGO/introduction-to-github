@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>e-commerce</title>
+    <link rel="stylesheet" href="../LE MAROCAIN/style.css" type="text/css">
+    <link rel="stylesheet" href="../LE MAROCAIN/style2.css" type="text/css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <header>
+        <p class="logo">le marocain</p>
+
+        <form action="" class="search">
+            <input type="search" name="srch" id="srch" placeholder="search">
+            <label for="srch"><i class='bx bx-search-alt-2'></i></label>          
+        </form>
+
+        <input type="checkbox" name="" id="check">
+        <label for="check" class="icons">
+            <i class='bx bx-menu' id="menu-icon"></i>
+            <i class='bx bx-x' id="menu-close"></i> 
+        </label>
+
+        <nav class="navbar">
+            <ul>
+                <li><a href="#">a proppos</a></li>
+                <li><a href="#">nos services</a></li>
+                <li><a href="#">contact</a></li>
+                <li><a href="#">plus d'infos</a></li>
+                <li>
+                    <a href="#"><i class='bx bxl-whatsapp' ></i></a>
+                    <a href="#"><i class='bx bxl-facebook'></i></a>
+                    <a href="#"><i class='bx bxl-tiktok'></i></a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <div class="conteneur">
+
+            <!-- Box 1 -->
+            <div class="box-conteneur">
+                <div class="box-produit">                   
+                    <div class="box-img" > 
+                        <a href="#"><img src="../LE MAROCAIN/Image/img1.jpeg" alt="montre connecter" ></a>
+                    </div>
+                    <h2 class="produit-title">Montre connecter</h2>
+                    <strong>15.000 Fcfa</strong>
+                    <ul>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star-half'></i>
+                        <i class='bx bx-star'></i>
+                    </ul>
+                </div>      
+                <div class="buy"><a href="archat.html">Acheter</a></div>
+            </div>
+
+            <!-- Box 2 -->
+            <div class="box-conteneur">
+                <div class="box-produit">                   
+                    <div class="box-img" > 
+                        <a href="#"><img src="../LE MAROCAIN/Image/img2.jpeg" alt="montre connecter" ></a>
+                    </div>
+                    <h2 class="produit-title">Etagère pour decodeur</h2>
+                    <strong>15.000 Fcfa</strong>
+                    <ul>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star-half'></i>
+                        <i class='bx bx-star'></i>
+                    </ul>
+                </div>      
+                <div class="buy"><a href="archat.html">Acheter</a></div>
+            </div>
+
+          <!-- Box 3 -->
+            <div class="box-conteneur">
+                <div class="box-produit"> 
+                    <div class="box-img" > 
+                        <a href="#"><img src="../LE MAROCAIN/Image/img3.jpeg" alt="montre connecter" ></a>
+                    </div>
+                    <h2 class="produit-title">Manche Longue</h2>               
+                    <strong>11.000 Fcfa</strong><br>
+                    <ul>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star-half'></i>
+                        <i class='bx bx-star'></i>
+                    </ul>
+                </div>
+                <div class="buy"><a href="archat.html">Acheter</a></div>
+            </div>
+           
+           <!-- Box 4 -->
+           <div class="box-conteneur">
+                <div class="box-produit">
+                    <div class="box-img" > 
+                        <a href="#"><img src="../LE MAROCAIN/Image/img4.jpeg" alt="montre connecter" ></a>
+                    </div>
+                    <h2 class="produit-title">Complet Pule</h2> 
+                    <strong>12.000 Fcfa</strong><br>
+                    <ul>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star-half'></i>
+                        <i class='bx bx-star'></i>
+                    </ul>
+                    <div class="buy"><a href="archat.html">Acheter</a></div>
+                </div>
+            </div>
+           
+            <!-- Box 5 -->
+            <div class="box-conteneur">
+                <div class="box-produit">
+                    <div class="box-img" > 
+                        <a href="#"><img src="../LE MAROCAIN/Image/img5.jpeg" alt="montre connecter" ></a>
+                    </div>
+                    <h2 class="produit-title">Complet Manche court</h2> <br>                
+                    <strong>11.500 Fcfa</strong><br>
+                    <ul>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star-half'></i>
+                        <i class='bx bx-star'></i>
+                    </ul>
+                    <div class="buy"><a href="archat.html">Acheter</a></div>
+                </div>
+            </div>
+           
+               <!-- Box 6 -->
+            <div class="box-conteneur">
+                <div class="box-produit">
+                    <div class="box-img" > 
+                        <a href="#"><img src="../LE MAROCAIN/Image/img6.jpeg" alt="montre connecter" ></a>
+                    </div>
+                    <h2 class="produit-title">Clée USB</h2> <br>                
+                    <strong>3.000 Fcfa</strong><br>
+                    <ul>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star-half'></i>               
+                        <i class='bx bx-star'></i>
+                        <i class='bx bx-star'></i>
+                    </ul>
+                    <div class="buy"><a href="archat.html">Acheter</a></div>
+                </div>
+            </div>
+           
+            <div class="section">
+                <a href="#"><img src="../LE MAROCAIN/Image/img7.jpeg" alt="montre connecter"></a><br><br>
+                <h2>Pule Rose</h2> <br>              
+                <strong>4.500 Fcfa</strong><br>
+                <ul>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star-half'></i> 
+                    <i class='bx bx-star'></i>
+                    <i class='bx bx-star'></i>
+                </ul>
+                <P class="Buy"><a href="">Acheter</a></P>
+            </div>
+           
+            <div class="section">
+                <a href="#"><img src="../LE MAROCAIN/Image/img8.jpeg" alt="montre connecter"></a><br><br>
+                <h2>Complet Tee-shirts</h2> <br>              
+                <strong>13.500 Fcfa</strong><br>
+                <ul>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star-half'></i> 
+                    <i class='bx bx-star'></i>
+                </ul>
+                <P class="Buy"><a href="">Acheter</a></P>
+            </div>
+          
+            <div class="section">
+                <a href="#"><img src="../LE MAROCAIN/Image/img9.jpeg"alt="montre connecter"></a><br><br>
+                <h2>Redmi Note 13 Pro </h2> <br>              
+                <strong>130.000 Fcfa</strong><br>
+                <ul>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star-half'></i>
+                </ul>
+                <P class="Buy"><a href="">Acheter</a></P>
+            </div>
+            
+            <div class="section">
+                <a href="#"><img src="../LE MAROCAIN/Image/img10.jpeg"alt="montre connecter"></a><br><br>
+                <h2>chaussure basket pour homme</h2> <br>              
+                <strong>7.800 Fcfa</strong><br>
+                <ul>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bx-star'></i>
+                    <i class='bx bx-star'></i>
+                </ul>
+                <P class="Buy"><a href="">Acheter</a></P>
+            </div>
+          
+            <div class="section">
+                <a href="#"><img src="../LE MAROCAIN/Image/img11.jpeg" alt="montre connecter"></a><br><br>
+                <h2>Montre de Sport</h2> <br>
+                <strong>2.500 Fcfa</strong><br>
+                <ul>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star'></i> 
+                    <i class='bx bx-star'></i>
+                    <i class='bx bx-star'></i>
+                    <i class='bx bx-star'></i>
+                </ul>
+                <P class="Buy"><a href="">Acheter</a></P>
+            </div>
+           
+            <div class="section">
+                <a href="#"><img src="../LE MAROCAIN/Image/img12.jpeg"alt="montre connecter"></a><br><br>
+                <h2>Aire Pode Noir</h2> <br>             
+                <strong>3.800 Fcfa</strong><br>
+                <ul>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star'></i>
+                    <i class='bx bxs-star-half'></i>
+                    <i class='bx bx-star'></i>
+                    <i class='bx bx-star'></i>
+                </ul>
+                <P class="Buy"><a href="">Acheter</a></P>
+            </div>
+
+        </div>
+    </section>
+</body>
+</html>
